@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Instagram tôi là v.vnuc_ nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/vvnuc/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/vvnuc' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
