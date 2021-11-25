@@ -1,13 +1,13 @@
 const CONFIG = {
-    introTitle: 'Phượng à, 5 hên đây :>',
+    introTitle: 'Huy ơi, là tui đây :>',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao ông cứ đi nhầm đường
+    Lạc vào tim tui lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: '8 thích anh <33',
+    title: 'Chúng ta đừng vội hứa điều gì cả, vì đâu biết ngày mai sẽ ra sao 😙',
+    desc: 'Nhưng có một điều tui luôn thật lòng. Đó là Tui thích ông <3 ',
+    btnYes: ' <33',
     btnNo: 'Không, 8 coi 5 là a trai :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao 8 lại yêu 5 <3',
     btnReply: 'Gửi cho lão 5 hên <3',
