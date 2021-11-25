@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gữi Hà Vy <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu 8 à <33333333',
     mess: '5 biết mà 🥰. Yêu 8 nhiều nhiều 😘😘',
-    messDesc: 'Nhắn tin cho tôi nhe 8 :>>.',
+    messDesc: 'Đồng ý hãy nhắn cho tui :>>.',
     btnAccept: 'Âu kây :3',
     messLink: 'https://m.me/vvnuc' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
